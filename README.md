@@ -96,7 +96,7 @@ Submit pull requests or open issues for suggestions and improvements.
 
 ## 🔹 License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License.See the [LICENSE](LICENSE) file for details.
 See LICENSE
  for details.
 
